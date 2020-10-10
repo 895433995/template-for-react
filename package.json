@@ -2,8 +2,9 @@
   "name": "template-for-react",
   "displayName": "template-for-react",
   "description": "create template for react",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "tchen",
+  "repository": "https://github.com/895433995/template-for-react",
   "engines": {
     "vscode": "^1.50.0"
   },
