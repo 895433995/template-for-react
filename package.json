@@ -24,7 +24,7 @@
       },
       {
         "command": "template-for-react.createReactFunctionComponent",
-        "title": "新建React Funtion模板代码"
+        "title": "新建React Function模板代码"
       }
     ],
     "menus": {
